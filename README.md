@@ -14,13 +14,13 @@ _0 TILs and counting..._
 
 ### Categories
 
-* [Sample](#sample)
+* [HTML](#html)
 
 
 ---
 
-### Sample
-- [Sample](sample/sample.md)
+### HTML
+- [shortcuts-01](html/shortcuts-01.md)
 
 
 ---
