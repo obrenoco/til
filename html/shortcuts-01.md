@@ -1,8 +1,9 @@
-###Shortcuts-01
+## Shortcuts-01
 
-On VSCode,
+# On VSCode,
+
 Apperently if you write `.class-name`, and press `tab`,
-it creates you this
+it creates you **a class**
 ```
  .class-name      <!-- press tab -->
  .
@@ -11,7 +12,7 @@ it creates you this
 ```
 
 
-But if instead you use `#id-name`, and press `tab`:
+But if instead you use `#id-name`, and **creates an id** `tab`:
 ```
  #id-name      <!-- press tab -->
  .
@@ -24,7 +25,7 @@ it creates and `id`.
 
 
 
-You can use `+` to create two classes:
+You can use `+` to create **two classes**:
 ```
  .my-class+your-class             <!-- press tab -->
  .
@@ -33,7 +34,7 @@ You can use `+` to create two classes:
 ```
 
 
-You can just write them together to create ONE div with several classes:
+You can just write them together to create **ONE div with several classes**:
 ```
  .my-class.your-class                    <!-- press tab -->
  .
@@ -42,7 +43,7 @@ You can just write them together to create ONE div with several classes:
 ```
 
 
-you can `multiply`:
+you can **multiply**:
 ```
  h1.my-class*4                   <!-- press tab -->
  .
@@ -55,7 +56,7 @@ you can `multiply`:
 
 
 
-you can create one element inside the other with `>`, like this:
+you can create **one element inside the other** with `>`, like this:
 ```
 ul>li.my-list*4                  <!-- press tab -->
  .
@@ -69,8 +70,7 @@ ul>li.my-list*4                  <!-- press tab -->
 ```
 
 
-
 That's it !
 bye
 
-[linkedin](https://www.linkedin.com/in/brenoromeiro/)
+[Linkedin](https://www.linkedin.com/in/brenoromeiro/)
