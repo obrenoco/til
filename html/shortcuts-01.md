@@ -1,4 +1,5 @@
 #Shortcuts-01
+
 On VSCode, Apperently if you write `.class-name`, and press `tab`,
 it creates you this
 ```
