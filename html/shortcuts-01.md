@@ -1,6 +1,7 @@
-#Shortcuts-01
+###Shortcuts-01
 
-On VSCode, Apperently if you write `.class-name`, and press `tab`,
+On VSCode,
+Apperently if you write `.class-name`, and press `tab`,
 it creates you this
 ```
  .class-name      <!-- press tab -->
@@ -8,6 +9,7 @@ it creates you this
  .
 <div class="class-name"></div>`  <!-- div created -->
 ```
+
 
 But if instead you use `#id-name`, and press `tab`:
 ```
@@ -20,8 +22,7 @@ it creates and `id`.
 
 => So `.` for `class` and `#` for `id`
 
-```
-```
+
 
 You can use `+` to create two classes:
 ```
@@ -31,6 +32,7 @@ You can use `+` to create two classes:
 <div class="your-class"></div>    <!-- also created-->
 ```
 
+
 You can just write them together to create ONE div with several classes:
 ```
  .my-class.your-class                    <!-- press tab -->
@@ -38,6 +40,7 @@ You can just write them together to create ONE div with several classes:
  .
 <div class="my-class your-class"></div>  <!-- div created -->
 ```
+
 
 you can `multiply`:
 ```
@@ -49,6 +52,8 @@ you can `multiply`:
 <div class="my-class"></div>  
 <div class="my-class"></div>  
 ```
+
+
 
 you can create one element inside the other with `>`, like this:
 ```
@@ -63,8 +68,9 @@ ul>li.my-list*4                  <!-- press tab -->
 </ul> 
 ```
 
+
+
 That's it !
 bye
 
-```
 [linkedin](https://www.linkedin.com/in/brenoromeiro/)
