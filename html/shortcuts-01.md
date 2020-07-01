@@ -1,6 +1,6 @@
-## Shortcuts-01
+# Shortcuts-01
 
-# On VSCode,
+## On VSCode,
 
 Apperently if you write `.class-name`, and press `tab`,
 it creates you **a class**
