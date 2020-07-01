@@ -69,6 +69,7 @@ ul>li.my-list*4                  <!-- press tab -->
 </ul> 
 ```
 
+More info [here](https://code.visualstudio.com/docs/languages/html)
 
 That's it !
 bye
