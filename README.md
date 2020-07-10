@@ -8,19 +8,23 @@ warrant a full blog post. These are things I've picked up by learning
 and pairing with smart people.
 
 
-_0 TILs and counting..._
+_1 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [HTML](#html)
-
+* [VScode](#vscode)
 
 ---
 
 ### HTML
 - [shortcuts-01](html/shortcuts-01.md)
+
+
+### VSCode
+- [shortcuts-02](html/shortuts-01.md)
 
 
 ---
